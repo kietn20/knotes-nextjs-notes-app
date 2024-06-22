@@ -45,7 +45,7 @@ const DocumentsPage = () => {
 				priority
 			/>
 			<h2 className="text-lg font-medium">
-				Welcome to {user?.username}&apos;s Kotion
+				Welcome to {user?.username}&apos;s KeyNotes
 			</h2>
 			<Button onClick={onCreate}>
 				<PlusCircle className="w-4 h-4 mr-2" />

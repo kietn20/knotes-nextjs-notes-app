@@ -97,13 +97,13 @@ const Navigation = () => {
 
 			sidebarRef.current.style.width = isMobile ? "100%" : "240px";
 			// Added to fix sidebar layering over documents
-			sidebarRef.current.style.setProperty(
-				"position",
-				isMobile ? "absolute" : "relative"
-			);
+			// sidebarRef.current.style.setProperty(
+			// 	"position",
+			// 	isMobile ? "absolute" : "relative"
+			// );
 			navbarRef.current.style.setProperty(
 				"width",
-				isMobile ? "0" : "calc(100% - 240px)"
+				isMobile ? "0" : "calc(100% - 213px)"
 			);
 			navbarRef.current.style.setProperty(
 				"left",
@@ -142,7 +142,7 @@ const Navigation = () => {
 			<aside
 				ref={sidebarRef}
 				className={cn(
-					"group/sidebar h-screen bg-secondary overflow-y-auto relative flex w-60 flex-col z-[99999] overflow-hidden",
+					"group/sidebar h-screen bg-secondary overflow-y-auto fixed flex w-60 flex-col z-[99999] overflow-hidden",
 					isResetting && "transition-all ease-in-out duration-300",
 					isMobile && "w-0"
 				)}

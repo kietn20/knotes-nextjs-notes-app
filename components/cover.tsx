@@ -45,7 +45,7 @@ const Cover = ({ url, preview }: CoverProps) => {
 					src={url}
 					fill
 					alt="Cover Image"
-					className="object-cover"
+					className="object-center"
 				/>
 			)}
 			{url && !preview && (
