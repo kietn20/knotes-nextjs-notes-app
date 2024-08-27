@@ -1,3 +1,8 @@
+# KeyNotes - Make & publish notes
+
+## Description
+A Next.js full-stack web application that features a dynamic and responsive WYSIWYG editor with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more for everyday notes and files.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
