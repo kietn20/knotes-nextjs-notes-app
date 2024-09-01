@@ -6,7 +6,7 @@ A Next.js full-stack web application that features a dynamic and responsive WYSI
 Home Page
 ![homepage](https://github.com/kietn20/knotes-nextjs-notes-app/blob/main/public/KeyNotesHomePage.png)
 
-Home Page
+Note Page
 ![notepage1](https://github.com/kietn20/knotes-nextjs-notes-app/blob/main/public/KeyNotesNotePage.png)
 ![notepage2](https://github.com/kietn20/knotes-nextjs-notes-app/blob/main/public/KeyNotesNotePage2.png)
 
