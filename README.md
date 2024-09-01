@@ -3,6 +3,14 @@
 ## Description
 A Next.js full-stack web application that features a dynamic and responsive WYSIWYG editor with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more for everyday notes and files.
 
+Home Page
+![homepage](https://github.com/kietn20/knotes-nextjs-notes-app/blob/main/public/KeyNotesHomePage.png)
+
+Home Page
+![notepage1](https://github.com/kietn20/knotes-nextjs-notes-app/blob/main/public/KeyNotesNotePage.png)
+![notepage2](https://github.com/kietn20/knotes-nextjs-notes-app/blob/main/public/KeyNotesNotePage2.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
